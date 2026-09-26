@@ -11,6 +11,7 @@ Contains 5 computer-related questions.
 Checks answers using case-insensitive comparison.
 Keeps track of the player's score.
 Displays the total number and percentage of correct answers.
+
 🧠 Topics Covered
 Python input() function
 if-else statements
@@ -19,6 +20,7 @@ String methods (.lower())
 Arithmetic operations
 User interaction
 Basic score calculation
+
 🚀 How to Run
 Make sure Python is installed on your computer.
 Download or clone this repository.
@@ -26,6 +28,8 @@ Open a terminal in the project folder.
 Run:
 python quiz.py
 Follow the instructions displayed in the terminal and enjoy the quiz!
+
+
 🎯 Purpose
 
 This project was created as a beginner-friendly Python project to practice programming fundamentals and build a simple command-line application.
